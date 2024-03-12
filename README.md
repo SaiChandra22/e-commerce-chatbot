@@ -23,7 +23,7 @@
 
 4. **Run the Application**:
     ```
-    streamlit run chatbot.py
+    streamlit run chat.py
     ```
 
 
